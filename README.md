@@ -5,7 +5,7 @@ Name: Joshua West
 Degree: Batchelors of Cybersecurity
 ```
 
-[Me](Images/Me.jpg)
+[Me](Images/ME.jpg)
 
 ***
 
